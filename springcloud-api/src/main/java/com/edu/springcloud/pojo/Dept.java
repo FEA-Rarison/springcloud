@@ -33,4 +33,5 @@ public class Dept implements Serializable {//Dept 实体类 类表关系映射
         dept.setDeptNo(11).setDname('sss').setDb_source('001');
 
      */
+    int i = 0;
 }
