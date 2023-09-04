@@ -34,4 +34,5 @@ public class Dept implements Serializable {//Dept 实体类 类表关系映射
 
      */
     int i = 0;
+    //做了一次更改------------------------------------------------
 }
